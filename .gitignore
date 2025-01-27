@@ -19,3 +19,7 @@ Thumbs.db
 
 # Linux system files
 *.swp
+
+# tools
+image2cpp.py
+wav2cpp.py
