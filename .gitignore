@@ -23,3 +23,18 @@ Thumbs.db
 # tools
 image2cpp.py
 wav2cpp.py
+
+# build
+build/
+dist/
+
+# assets
+*.mp3
+*.mp4
+*.wav
+*.png
+*.jpeg
+
+# local lib path
+# なぜかarduinoIDEでパスを通してもビルドが通らないのでローカルにライブラリを設置
+src/
